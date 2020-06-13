@@ -1,17 +1,17 @@
-#Instalación del proyecto
+# Instalación del proyecto
 
-##Clonar el repositorio
-´´´
+## Clonar el repositorio
+```
 $ git clone https://github.com/EdisonDevS/GANTransformacionDeDominio.git
-´´´
+```
 
-##Instalar dependencias
-´´´
+## Instalar dependencias
+```
 $ cd GANTransformacionDeDominio
 $ ./requirements.sh
-´´´
+```
 
-#Iniciar la aplicación
-´´´
+# Iniciar la aplicación
+```
 $ python3 app.py
-´´´
+```
